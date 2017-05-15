@@ -27,4 +27,4 @@ public class Main
 
 	} // class main()
 
-} // end class RollADice
+} 
